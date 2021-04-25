@@ -1,0 +1,13 @@
+C:\Users\leona\Desktop\skola\2020-2021\informatica\Grimaldi.Leonardo.4J.SaveRecord\Grimaldi.Leonardo.4J.SaveRecord\bin\Debug\netcoreapp3.1\Grimaldi.Leonardo.4J.SaveRecord.exe
+C:\Users\leona\Desktop\skola\2020-2021\informatica\Grimaldi.Leonardo.4J.SaveRecord\Grimaldi.Leonardo.4J.SaveRecord\bin\Debug\netcoreapp3.1\Grimaldi.Leonardo.4J.SaveRecord.deps.json
+C:\Users\leona\Desktop\skola\2020-2021\informatica\Grimaldi.Leonardo.4J.SaveRecord\Grimaldi.Leonardo.4J.SaveRecord\bin\Debug\netcoreapp3.1\Grimaldi.Leonardo.4J.SaveRecord.runtimeconfig.json
+C:\Users\leona\Desktop\skola\2020-2021\informatica\Grimaldi.Leonardo.4J.SaveRecord\Grimaldi.Leonardo.4J.SaveRecord\bin\Debug\netcoreapp3.1\Grimaldi.Leonardo.4J.SaveRecord.runtimeconfig.dev.json
+C:\Users\leona\Desktop\skola\2020-2021\informatica\Grimaldi.Leonardo.4J.SaveRecord\Grimaldi.Leonardo.4J.SaveRecord\bin\Debug\netcoreapp3.1\Grimaldi.Leonardo.4J.SaveRecord.dll
+C:\Users\leona\Desktop\skola\2020-2021\informatica\Grimaldi.Leonardo.4J.SaveRecord\Grimaldi.Leonardo.4J.SaveRecord\bin\Debug\netcoreapp3.1\Grimaldi.Leonardo.4J.SaveRecord.pdb
+C:\Users\leona\Desktop\skola\2020-2021\informatica\Grimaldi.Leonardo.4J.SaveRecord\Grimaldi.Leonardo.4J.SaveRecord\obj\Debug\netcoreapp3.1\Grimaldi.Leonardo.4J.SaveRecord.csprojAssemblyReference.cache
+C:\Users\leona\Desktop\skola\2020-2021\informatica\Grimaldi.Leonardo.4J.SaveRecord\Grimaldi.Leonardo.4J.SaveRecord\obj\Debug\netcoreapp3.1\Grimaldi.Leonardo.4J.SaveRecord.AssemblyInfoInputs.cache
+C:\Users\leona\Desktop\skola\2020-2021\informatica\Grimaldi.Leonardo.4J.SaveRecord\Grimaldi.Leonardo.4J.SaveRecord\obj\Debug\netcoreapp3.1\Grimaldi.Leonardo.4J.SaveRecord.AssemblyInfo.cs
+C:\Users\leona\Desktop\skola\2020-2021\informatica\Grimaldi.Leonardo.4J.SaveRecord\Grimaldi.Leonardo.4J.SaveRecord\obj\Debug\netcoreapp3.1\Grimaldi.Leonardo.4J.SaveRecord.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\skola\2020-2021\informatica\Grimaldi.Leonardo.4J.SaveRecord\Grimaldi.Leonardo.4J.SaveRecord\obj\Debug\netcoreapp3.1\Grimaldi.Leonardo.4J.SaveRecord.dll
+C:\Users\leona\Desktop\skola\2020-2021\informatica\Grimaldi.Leonardo.4J.SaveRecord\Grimaldi.Leonardo.4J.SaveRecord\obj\Debug\netcoreapp3.1\Grimaldi.Leonardo.4J.SaveRecord.pdb
+C:\Users\leona\Desktop\skola\2020-2021\informatica\Grimaldi.Leonardo.4J.SaveRecord\Grimaldi.Leonardo.4J.SaveRecord\obj\Debug\netcoreapp3.1\Grimaldi.Leonardo.4J.SaveRecord.genruntimeconfig.cache
